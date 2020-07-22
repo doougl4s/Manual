@@ -15,7 +15,7 @@
 
 ## _Instalação do Jogo_                                                                          {#game-installation}
 
-Com o PR: BF2, **não é mais necessário ter o Battlefield 2** instalado. PR: BF2 v1.3 e além funciona como um jogo autônomo. Se você tem uma versão do PR: BF2 instalado, você precisará desinstalá-lo antes de instalar o PR: BF2 v1.6. **Não há patch disponível e versão mais antiga para v1.3!**
+Com o PR: BF2, **não é mais necessário ter o Battlefield 2** instalado. PR: BF2 funciona como um jogo autônomo. Se você tem uma versão do PR: BF2 anterior à v1.3 instalada, você precisará desinstalá-la antes de instalar o PR: BF2 v1.6. **Não há patch de atualização disponível para versões mais antigas que v1.3!**
 
 Você tem que baixar o PR completo: instalador BF2 do nosso site. Não será necessário ter o Battlefield 2 instalado.
 
